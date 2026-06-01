@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔐 Password Strength Analyzer
 
 A clean, beginner-friendly Python command-line utility designed to analyze password complexity, evaluate overall strength, and suggest actionable security improvements.
@@ -84,7 +83,3 @@ We grade password security on a point system (from 0 to 5 points), corresponding
 1. **Length is King:** A password's entropy (randomness) increases exponentially with its length. Aim for at least 12–16 characters!
 2. **Use Passphrases:** Instead of a complex, unmemorable password like `P@$$w0rd!`, construct a passphrase out of 4-5 random words (e.g., `correct-horse-battery-staple`). They are easier to remember and much harder to crack.
 3. **Never Reuse Passwords:** Utilize a secure Password Manager to generate and save unique credentials for each of your online accounts.
-=======
-# password-strength-analyzer
-A tool that evaluates the strength of user-entered passwords.
->>>>>>> 7bdca31295a4389bd405c1b18b68c77685945f17
