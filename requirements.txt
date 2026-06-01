@@ -1,0 +1,2 @@
+# Optional dependency for cross-platform colored terminal outputs
+colorama==0.4.6
